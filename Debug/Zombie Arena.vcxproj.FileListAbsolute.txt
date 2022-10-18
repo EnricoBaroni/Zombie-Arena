@@ -1,0 +1,2 @@
+C:\Users\enric\source\repos\Zombie Arena\Debug\Zombie Arena.exe
+C:\Users\enric\source\repos\Zombie Arena\Debug\Zombie Arena.pdb

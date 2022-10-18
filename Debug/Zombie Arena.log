@@ -1,0 +1,17 @@
+﻿  Bullet.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\bullet.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  CreateBackground.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\ZombieArena.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  CreateHorde.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\ZombieArena.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Pickup.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\Pickup.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\player.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  TextureHolder.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\TextureHolder.h(4,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Zombie Arena.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\Zombie Arena.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Zombie.cpp
+C:\Users\enric\OneDrive\Escritorio\Enrico\Programacion\source\repos\Zombie Arena\zombie.h(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Generando código...
